@@ -64,10 +64,22 @@ echo $_SERVER['SCRIPT_NAME'];
 echo "<br>";
 echo $_SERVER['SERVER_ADDR'];
 
-echo "<br>"
+echo "<br>";
 
+// for 循环练习，注意这个的位置和swift是相反的
+$zx = array("one","two","three");
+foreach ($zx as $value) {
+    echo $value . "<br>"; // 。 的意思是连接符号？
+}
 
+// 函数的返回值
 
+function add($x, $y){
+    $total = $x + $y;
+    return $total;
+}
+
+echo "你妹的" . add(18,19) . "<br>";
 
 ?>
 
