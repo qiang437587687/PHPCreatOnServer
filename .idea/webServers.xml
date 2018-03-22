@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c0c9bfa6-b8ee-4ba3-b998-e23c55be1aa8" name="localhost" url="http://localhost/zhang/PHPCreatOnServer">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
