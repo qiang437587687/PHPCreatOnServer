@@ -43,7 +43,7 @@ class test {
     }
 }
 $t = new test();
-$t->_print();
+$t->_print(); //s
 
 echo "<br>";
 
