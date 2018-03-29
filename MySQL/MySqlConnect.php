@@ -35,6 +35,7 @@ function creatDB() {
     } else {
         echo 'Error creating database:' . $conn -> error;
     }
+    // 。。。。
 }
 
 
